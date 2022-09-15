@@ -1,2 +1,2 @@
 # Creality CR-10 V3 Klipper configuration files
-CR-10 V3 Stock with BL-Touch
+Klipper config files for a stock CR-10 V3 with BL-Touch

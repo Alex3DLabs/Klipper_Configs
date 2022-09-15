@@ -1,5 +1,5 @@
 # Klipper config files
-My Klipper Configs for my 3D Printers
+Sharing my Klipper config files for my 3D Printers running Klipper.
 I have uploaded these for reference only, use them at your own risk.
 
 # My current printers are:

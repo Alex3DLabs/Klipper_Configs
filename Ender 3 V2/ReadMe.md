@@ -1,7 +1,22 @@
 # Creality Ender 3 V2 
 
 # Printer Setup
-This printer started out as a Creality Ender 3 V2 I've added MGN12H linear rails on all three axis, Direct drive leveraging an E3D V6 with a BMG Clone 
+This printer started out as a Creality Ender 3 V2, not much of that original printer remains
 
-# Board
-I've replaced the original 4.2.2 mainboard with a BTT SKR Mini E3 V3
+
+My current Upgrades
+MGN12H linear rail upgrade, with 2 on Y, two on Z and one X Axis 
+BTT SKR Mini E3 V3
+BTT TFT35 V3 screen, marlin mode for kilpper
+E3D V6 Hotend
+BMG Clone Direct Drive
+Dual Z screws
+Smooth PEI
+Tectured PEI
+
+Future Mods
+Stepper breakout board to do true dual z stepper drivers
+
+
+I use this spool holder on my Ender 3 V2 as well as my CR-10 V3.
+https://www.printables.com/model/118580-the-better-and-simpler-spool-holder

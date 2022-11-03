@@ -28,3 +28,5 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzale
 
 Notes:
 After installing the U2C and the EBB36 I originally used the ebb-canbus-v1.2.cfg file and called it out in the printer.cfg.  I stopped doing that and moved everything from ebb-canbus-v1.2.cfg into printer.cfg.  The reson I did that was becasuse I could not save my pid settings as it would error out notbeing able to save it to both files.
+<img width="1264" alt="BTT U2C v2 1 Pinout" src="https://user-images.githubusercontent.com/113078228/199635790-d2f7435b-05f7-4dbd-9f8a-3a08b027d211.png">
+![EBB36 V1 2](https://user-images.githubusercontent.com/113078228/199635803-ddfac164-213e-4a69-9fc9-5bd4276daa11.png)

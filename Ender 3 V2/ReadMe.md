@@ -6,12 +6,19 @@ This printer started out as a Creality Ender 3 V2, not much of that original pri
 
 My current Upgrades
 MGN12H linear rail upgrade, with 2 on Y, two on Z and one X Axis 
+
 BTT SKR Mini E3 V3
+
 BTT TFT35 V3 screen, marlin mode for kilpper
+
 E3D V6 Hotend
+
 BMG Clone Direct Drive
+
 Dual Z screws
+
 Smooth PEI
+
 Tectured PEI
 
 Future Mods

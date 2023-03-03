@@ -1,5 +1,7 @@
 Voron 0 v0.2
 
+Voron0_v0.2_ABS_PIF.ini is my SuperSlicer Profile for PIF parts
+
 These are my current Klipper configs for My Voron 0 v0.2 LDO kit.
 
 Current Setup

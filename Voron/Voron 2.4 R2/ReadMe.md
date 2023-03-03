@@ -2,6 +2,8 @@ Voron 2.4 V2
 
 These are my current Klipper configs for My Voron 2.4 R2 350x350x350 Formbot kit.
 
+Voron2.4_ABS_PIF.ini is my SuperSlicer Profile that I use for Voron parts.
+
 Current Setup
 
 StealthBurner

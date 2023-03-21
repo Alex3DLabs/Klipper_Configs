@@ -24,6 +24,10 @@ Hartk GE5C Z Joint mod
 
 Hartk Sexbolt Z endstop
 
+Ellis Bed Fan Mod
+
+Chamber Thermistor
+
 Klicky
 
 Side panel quick release snap latch (these are a lifesaver)

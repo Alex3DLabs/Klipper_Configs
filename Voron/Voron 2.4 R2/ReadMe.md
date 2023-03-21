@@ -10,7 +10,7 @@ StealthBurner
 
 LGX-Lite Extruder
 
-E3D Revo Six.
+Phaetus Rapido
 
 Hartk Stealthburner PCB
 
@@ -28,5 +28,6 @@ Klicky
 
 Side panel quick release snap latch (these are a lifesaver)
 
-270° door hinges 
+270° door hinges (helps to not snap the door off and send it flying across the room)
 
+Deck panel Support Clips (no sagging bottom panel)

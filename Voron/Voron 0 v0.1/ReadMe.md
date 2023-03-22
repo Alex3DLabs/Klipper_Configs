@@ -6,5 +6,5 @@ These are my current Klipper configs for My Voron 0 v0.1 LDO kit.
 
 Current Setup
 
-Currently setup with a Mini Afterburner, Dragonfly BMO.
+Currently setup with a Mini Afterburner, Dragonfly BMO and a Nevermore V4
 

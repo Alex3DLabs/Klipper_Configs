@@ -16,6 +16,8 @@ Hartk Stealthburner PCB
 
 Linneo PCB wiring Harness
 
+2.4 Titanium Extrusion Backers - No more bed taco!
+
 Running Nevermore Micro v5
 
 Honeybadger textured PEI buildsheet

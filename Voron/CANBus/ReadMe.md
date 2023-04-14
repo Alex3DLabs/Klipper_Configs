@@ -36,3 +36,6 @@ I measured the resistance across the two poins shown below on the EBB36, it need
 ![EBB36 Jumper](https://user-images.githubusercontent.com/113078228/199636533-a315baf0-b6bd-46d7-892d-554a1c7ace69.jpg)
 <img width="597" alt="U2C V2 1 Jumper" src="https://user-images.githubusercontent.com/113078228/199636545-58b72a53-d772-4f0d-9bb3-ee75bcbf4814.png">
 
+https://maz0r.github.io/klipper_canbus/controller/u2c.html
+
+https://maz0r.github.io/klipper_canbus/toolhead/ebb36-42_v1.1.html

@@ -37,10 +37,14 @@ I measured the resistance across the two poins shown below on the EBB36, it need
 <img width="597" alt="U2C V2 1 Jumper" src="https://user-images.githubusercontent.com/113078228/199636545-58b72a53-d772-4f0d-9bb3-ee75bcbf4814.png">
 
 This guide got my U2C v2.1 working.
+
 https://github.com/Esoterical/voron_canbus/tree/main/can_adapter/BigTreeTech%20U2C%20v2.1
+
+https://github.com/Esoterical/voron_canbus/blob/main/toolhead_flashing/README.md
 
 
 Do not use these.
+
 https://maz0r.github.io/klipper_canbus/controller/u2c.html
 
 https://maz0r.github.io/klipper_canbus/toolhead/ebb36-42_v1.1.html

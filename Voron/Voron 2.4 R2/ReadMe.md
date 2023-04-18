@@ -28,7 +28,7 @@ Hartk GE5C Z Joint mod
 
 Hartk Sexbolt Z endstop
 
-Ellis Bed Fan Mod
+Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
 Chamber Thermistor
 

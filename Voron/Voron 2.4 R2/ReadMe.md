@@ -37,3 +37,8 @@ Side panel quick release snap latch (these are a lifesaver)
 270° door hinges (helps to not snap the door off and send it flying across the room)
 
 Deck panel Support Clips (no sagging bottom panel)
+
+Helpful Links
+
+KB-3D Wiki on the Hartk Stealthburner PCB Toolhead https://wiki.kb-3d.com/en/home/linneo/voron/PCBs/Stealthburner_One_Piece_PCB
+

@@ -1,20 +1,24 @@
 Voron Switchwire (Ender 3 V2 mod)
 
-I am modifying my Ender 3 V2 in a Voron Switchwire using the following conversion. https://github.com/boubounokefalos/Ender_SW
+I modifed my Ender 3 V2 in a Voron Switchwire with Stealthburner toolhead. I am using the following conversion (v2). https://github.com/boubounokefalos/Ender_SW
 
-This will turn the Ender from a dual lead screw bed slinger into a CoreXZ bed slinger.
+This will turn the Ender from a dual lead screw bed slinger into a CoreXZ bed flinger.
 
-Parts I am reusinng from the original Ender 3 V2 are the Heated Bed, the MeanWell power supply and the frame.  Everything else is being replaced.
+The only parts I am reusinng from the original Ender 3 V2 are the Heated Bed (for now), the MeanWell power supply and the frame.  Everything else is being replaced.
 
 Parts being used:
 
-BTT SKR Mini E3 V2
+BTT SKR Mini E3 V2  https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-integrated-tmc2209-uart-for-ender-3
 
-E3D Revo Six
+Eddy Currents Beacon probe https://beacon3d.com
 
-Sherpa Mini or Orbiter 1.5 for the extruder
+BTT U2C v2.1 and EBB36 v1.2 https://biqu.equipment/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665215074
 
-Stealthburner
+E3D Revo Six https://e3d-online.com/products/revo-six
+
+LDO Orbiter 1.5 https://www.orbiterprojects.com/orbiter-1-5/
+
+
 
 Helpful Links
 

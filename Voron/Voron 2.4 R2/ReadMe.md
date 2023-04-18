@@ -10,15 +10,17 @@ StealthBurner
 
 LGX-Lite Extruder
 
-Phaetus Rapido
+Phaetus Rapido HF
 
 Hartk Stealthburner PCB
 
 Linneo PCB wiring Harness
 
-2.4 Titanium Extrusion Backers - No more bed taco!
+2.4 Titanium Extrusion Backers - No more bed tacos!
 
 Running Nevermore Micro v5
+
+Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH
 
 Honeybadger textured PEI buildsheet
 
@@ -30,7 +32,7 @@ Ellis Bed Fan Mod
 
 Chamber Thermistor
 
-Klicky
+KlickyNG
 
 Side panel quick release snap latch (these are a lifesaver)
 

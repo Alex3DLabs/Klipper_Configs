@@ -16,3 +16,7 @@ Sherpa Mini or Orbiter 1.5 for the extruder
 
 Stealthburner
 
+Helpful Links
+
+KB-3D EBB info https://wiki.kb-3d.com/home/btt/voron/BTT_EBB36
+

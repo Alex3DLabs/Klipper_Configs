@@ -7,3 +7,10 @@ I am building the ERCF Sturdy Bunny mod between orders.
 https://github.com/Danzaywer/SturdyBunnyProject
 
 Much stiffness.
+
+
+I am also running the Happy Hare software for ERCF.
+
+https://github.com/moggieuk/ERCF-Software-V3
+
+Much Happiness

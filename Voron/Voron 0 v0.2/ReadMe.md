@@ -8,4 +8,6 @@ Current Setup
 
 Currently setup with a Mini Stealthburner, Dragonfly BMO, Kirigami Bed
 
-Current Mods BTT SKR Mini E3 V3, Nevermore Micro v4
+Current Mods BTT SKR Mini E3 V3  https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3?variant=39982232174690
+
+Nevermore Micro v4 

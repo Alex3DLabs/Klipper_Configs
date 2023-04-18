@@ -1,5 +1,12 @@
 Welcome to my Voron printer section, I will keep this updated as best I can.
 
+The Voron printers that I currently have are:
+
+Voron 0 v0.2
+
+Voron 2.4 R2
+
+Switchwire
 
 
 Awesome Klipper links

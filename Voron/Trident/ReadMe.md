@@ -3,6 +3,7 @@ My Trident 250 build
 M8P
 EBB36
 
+https://www.reddit.com/r/BIGTREETECH/comments/11mika1/bigtreetech_manta_m8p_v11_ebb_canbus_canboot/
 
 https://user-images.githubusercontent.com/79392/222324290-c64605d5-7482-43b9-a275-207adb99a704.jpg
 

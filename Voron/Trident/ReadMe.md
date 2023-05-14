@@ -1,7 +1,17 @@
 My Trident 250 build
 
-M8P
-EBB36
+Octopus Pro
+
+EBB36 with U2C
+
+Rapido
+
+LGX-Lite
+
+Ellis Bed Fan Mod
+
+Nevermore Micro V5 for 1.8/Trident
+
 
 Great Guide here https://wiki.kb-3d.com/en/home/btt/voron/BTT_EBB36
 

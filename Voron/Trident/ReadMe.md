@@ -18,6 +18,12 @@ Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/
 
 Honeybadger textured PEI buildsheet
 
+Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
+
+Chamber Thermistor
+
+Voron TAP
+
 Great Guide here https://wiki.kb-3d.com/en/home/btt/voron/BTT_EBB36
 
 https://www.reddit.com/r/BIGTREETECH/comments/11mika1/bigtreetech_manta_m8p_v11_ebb_canbus_canboot/

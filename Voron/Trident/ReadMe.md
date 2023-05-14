@@ -12,6 +12,9 @@ Ellis Bed Fan Mod
 
 Nevermore Micro V5 for 1.8/Trident
 
+Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH
+
+Honeybadger textured PEI buildsheet
 
 Great Guide here https://wiki.kb-3d.com/en/home/btt/voron/BTT_EBB36
 

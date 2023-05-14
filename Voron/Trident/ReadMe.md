@@ -24,6 +24,12 @@ Chamber Thermistor
 
 Voron TAP
 
+Side panel quick release snap latch (these are a lifesaver)
+
+270° door hinges (helps to not snap the door off and send it flying across the room)
+
+Deck panel Support Clips (no sagging bottom panel)
+
 Great Guide here https://wiki.kb-3d.com/en/home/btt/voron/BTT_EBB36
 
 https://www.reddit.com/r/BIGTREETECH/comments/11mika1/bigtreetech_manta_m8p_v11_ebb_canbus_canboot/

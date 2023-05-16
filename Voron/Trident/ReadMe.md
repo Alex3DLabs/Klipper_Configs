@@ -22,7 +22,7 @@ Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_
 
 Chamber Thermistor
 
-Voron TAP
+Voron TAP https://github.com/VoronDesign/Voron-Tap/blob/main/config/tap_klipper_instructions.md
 
 Side panel quick release snap latch (these are a lifesaver)
 

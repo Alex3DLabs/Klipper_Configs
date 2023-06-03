@@ -4,7 +4,5 @@ This printer has been upgraded to v0.2, please see that directory for more info,
 
 These are my current Klipper configs for My Voron 0 v0.1 LDO kit.
 
-Current Setup
-
-Currently setup with a Mini Afterburner, Dragonfly BMO and a Nevermore V4
+Configurationo for BTT SKR Mini E3 V2, running a Mini Afterburner, Dragonfly BMO and a Nevermore V4
 

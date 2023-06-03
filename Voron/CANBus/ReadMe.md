@@ -1,5 +1,11 @@
 CANBus Info
 
+I am currently running the folowing CANBus configuration on 2 printers.  
+
+BTT U2C v2.1 
+
+BTT Ebb36 v1.2
+
 
 CANBus install notes.
 After installing the U2C and the EBB36 I originally used the ebb-canbus-v1.2.cfg file and called it out in the printer.cfg.  I stopped doing that and moved everything from ebb-canbus-v1.2.cfg into printer.cfg.  The reson I did that was becasuse I could not save my pid settings as it would error out notbeing able to save it to both files.

@@ -1,14 +1,18 @@
 My Trident 250 build
 
+Meanwell UHC-200-24V and UHC-200-48V
+
 Octopus Pro
 
-EBB36 with U2C
+BTT TMC 2209 Stepper Drivers
 
-Rapido
+BTT TMC 5160 Pro Stepper Drivers for X&Y
 
-LGX-Lite
+EBB36 v1.2 with U2C V2.1
 
-Ellis Bed Fan Mod
+Triangel Labs Rapido
+
+Bondtech LGX-Lite
 
 Titanium Extrusion Backers - No more bed tacos!
 
@@ -22,7 +26,7 @@ Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_
 
 Chamber Thermistor
 
-Voron TAP https://github.com/VoronDesign/Voron-Tap/blob/main/config/tap_klipper_instructions.md
+Eddy Currents Beacon Probe
 
 Side panel quick release snap latch (these are a lifesaver)
 

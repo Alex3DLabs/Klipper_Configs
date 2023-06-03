@@ -4,7 +4,7 @@ I modifed my Ender 3 V2 in a Voron Switchwire with Stealthburner toolhead. I am 
 
 This will turn the Ender from a dual lead screw bed slinger into a CoreXZ bed flinger.
 
-The only parts I am reusinng from the original Ender 3 V2 are the Heated Bed (for now), the MeanWell power supply and the frame.  Everything else is being replaced.
+The only parts I am reusinng from the original Ender 3 V2 are the Heated Bed (for now), the MeanWell power supply and the frame.  Everything else has been replaced.
 
 Parts being used:
 

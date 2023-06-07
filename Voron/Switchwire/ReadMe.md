@@ -18,10 +18,10 @@ E3D Revo Six https://e3d-online.com/products/revo-six
 
 LDO Orbiter 1.5 https://www.orbiterprojects.com/orbiter-1-5/
 
-U2C Mount https://www.printables.com/model/422274-bigtreetech-u2c-mount
 
 
 Helpful Links
 
 KB-3D EBB info https://wiki.kb-3d.com/home/btt/voron/BTT_EBB36
 
+U2C Mount https://www.printables.com/model/422274-bigtreetech-u2c-mount

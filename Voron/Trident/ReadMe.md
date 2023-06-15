@@ -10,7 +10,7 @@ BTT TMC 5160 Pro Stepper Drivers at 48V for X&Y
 
 EBB36 v1.2 with U2C V2.1
 
-Triangel Labs Rapido
+Triangel Labs Rapido HF
 
 Bondtech LGX-Lite
 

@@ -6,17 +6,19 @@ Voron2.4_ABS_PIF.ini is my SuperSlicer Profile that I use for Voron parts.
 
 Current Setup
 
+BTT Octopus v1.1
+
 StealthBurner
 
 LGX-Lite Extruder
 
 Phaetus Rapido HF
 
-Hartk Stealthburner PCB
+Hartk Stealthburner PCB (Single)
 
 Linneo PCB wiring Harness
 
-2.4 Titanium Extrusion Backers - No more bed tacos!
+Titanium Gantry Extrusion Backers - No more bed tacos!
 
 Running Nevermore Micro v5
 

@@ -6,12 +6,28 @@ These are my current Klipper configs for My Voron 0 v0.2 LDO kit.
 
 Current Setup
 
-MiniSB SHarkfin, Sherpa Mini, Dragonfly BMO, Kirigami Bed
+BTT SKR Mini E3 V3
+
+MiniSB SHarkfin
+
+Sherpa Mini
+
+Dragonfly BMO
+
+Kirigami Bed
 
 V0 Simple Display by Hartk
 
 LDO Input Shaper
 
-BTT SKR Mini E3 V3  https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3?variant=39982232174690
-
 Nevermore Micro v4 
+
+Useful Links:
+
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/MiniSB_Sharkfin
+
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/V0.2_Handles
+
+https://github.com/MapleLeafMakers/V0_Stealth_Handles
+
+

@@ -6,7 +6,7 @@ Octopus Pro
 
 BTT TMC 2209 Stepper Drivers
 
-BTT TMC 5160 Pro Stepper Drivers for X&Y
+BTT TMC 5160 Pro Stepper Drivers at 48V for X&Y
 
 EBB36 v1.2 with U2C V2.1
 

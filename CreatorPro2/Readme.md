@@ -4,7 +4,7 @@ Current mods
 
 BTT Manta M8P v1.1
 
-See the PinOut.cfg file for into on pins.  CreatorPro2/PinOuts.cfg
+See the PinOut.cfg file for into on pins.  [CreatorPro2/PinOuts.cfg](https://github.com/Alex3DLabs/Klipper_Configs/blob/main/CreatorPro2/PinOuts.cfg)
 
 I am updating and will post my 
 

@@ -4,9 +4,9 @@ Current mods
 
 BTT Manta M8P v1.1
 
-See the PinOut.cfg file for into on pins.  [CreatorPro2/PinOuts.cfg](https://github.com/Alex3DLabs/Klipper_Configs/blob/main/CreatorPro2/PinOuts.cfg)
+See my [CreatorPro2/PinOuts.cfg](https://github.com/Alex3DLabs/Klipper_Configs/blob/main/CreatorPro2/PinOuts.cfg) file for into on pins. 
 
-I am updating and will post my 
+I am updating printer.cfg and will post it soon.
 
 ![PXL_20230618_035749435](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/5118a282-6573-4337-a04d-e978cfc09022)
 

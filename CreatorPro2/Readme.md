@@ -16,4 +16,8 @@ I ended up soldering two wires to the physical switchs for the Z and Y endstops.
 
 ![RAMPS1 4+Generic M'Bot1](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/f590eb77-9d06-4615-b362-a5931916bcfc)
 
-Both X endstops are optical endstops, I ended up making an adapter to put a microswitch endstop in it's place.
+Both X endstops are optical endstops, I ended up making an adapter to put a microswitch endstop in it's place, locatedin the STL directory.
+
+I swapped out the stock extruder stepper motors with 2 Moons extruder stepper motors.
+
+![Moons Steppers](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/e8905dbf-b244-461e-84fa-b74b0083ccda)

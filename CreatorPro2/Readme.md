@@ -12,4 +12,6 @@ I am updating printer.cfg and will post it soon.
 
 ![BIGTREETECH MANTA M8P V1 1 PinOut](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/c17f7e0f-4f32-42bd-996c-3e52d71a5422)
 
+I ended up soldering two wires to the physical switchs for the Z and Y endstops. 
+
 ![RAMPS1 4+Generic M'Bot1](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/f590eb77-9d06-4615-b362-a5931916bcfc)

@@ -23,3 +23,5 @@ I swapped out the stock extruder stepper motors with 2 Moons extruder stepper mo
 ![Moons Steppers](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/e8905dbf-b244-461e-84fa-b74b0083ccda)
 
 OEM X Stepper Motors are moons stepping motors type 17hd4063-06n
+full_steps_per_rotation: 200
+1.8º

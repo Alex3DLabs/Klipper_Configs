@@ -42,6 +42,8 @@ Side panel quick release snap latch (these are a lifesaver)
 
 Deck panel Support Clips (no sagging bottom panel)
 
+LDO Z Rail End Stops https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl
+
 Helpful Links
 
 KB-3D Wiki on the Hartk Stealthburner PCB Toolhead https://wiki.kb-3d.com/en/home/linneo/voron/PCBs/Stealthburner_One_Piece_PCB

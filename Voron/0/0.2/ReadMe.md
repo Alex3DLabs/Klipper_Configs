@@ -26,6 +26,8 @@ V0.2 R1 filament runout sensor installed and working
 
 Useful Links:
 
+https://github.com/lukascechovic/voron-v01-POM-fix
+
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/MiniSB_Sharkfin
 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Maverick/V0.2_Handles

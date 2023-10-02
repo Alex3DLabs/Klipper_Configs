@@ -6,7 +6,9 @@ Voron 0 includes configs for both v0.1 & v0.2
 
 Voron 2.4 R2
 
-Voron Trident
+Voron Trident 250
+
+Voron Trident 350
 
 Voron Switchwire
 

@@ -18,7 +18,7 @@ E3D Revo Six https://e3d-online.com/products/revo-six
 
 LDO Orbiter 1.5 https://www.orbiterprojects.com/orbiter-1-5/
 
-
+Fysetc Mini 12864 with STM Mini 12864 https://github.com/VoronDesign/Voron-Hardware/tree/master/STM32_Mini12864
 
 Helpful Links
 

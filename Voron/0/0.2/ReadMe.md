@@ -24,6 +24,8 @@ Nevermore Micro v4
 
 V0.2 R1 filament runout sensor installed and working
 
+Klipper Expander https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander
+
 Useful Links:
 
 https://github.com/lukascechovic/voron-v01-POM-fix

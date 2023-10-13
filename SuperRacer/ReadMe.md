@@ -1,6 +1,6 @@
 FLSUN Super Racer with Speeder Pad
 
-I foloowed these guides https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki
+I followed these guides https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki
 
 Calibrating the SR https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki/Calibrate-your-Printer
 

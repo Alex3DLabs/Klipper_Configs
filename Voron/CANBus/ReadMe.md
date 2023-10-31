@@ -1,6 +1,6 @@
 CANBus Info
 
-I am currently running the folowing CANBus configuration on 2 printers.  
+I am currently running the folowing CANBus configuration on 3 printers.  A Switchwire, a Trident 250 and a Trident 350.
 
 BTT U2C v2.1 
 

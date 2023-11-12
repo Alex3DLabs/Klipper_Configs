@@ -36,9 +36,9 @@ Chamber Thermistor
 
 KlickyNG
 
-Side panel quick release snap latch (these are a lifesaver)
+Side panel quick release snap latch (these are a lifesaver) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020
 
-270° door hinges (helps to not snap the door off and send it flying across the room)
+270° door hinges (helps to not snap the door off and send it flying across the room) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
 
 Deck panel Support Clips (no sagging bottom panel)
 

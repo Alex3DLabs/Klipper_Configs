@@ -28,11 +28,11 @@ Honeybadger textured PEI buildsheet
 
 Hartk GE5C Z Joint mod
 
-Hartk Sexbolt Z endstop
+Hartk Sexbolt Z endstop 
 
 Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
-Chamber Thermistor
+Chamber Thermistor https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/extrusion_thermistor_mount
 
 KlickyNG
 
@@ -40,7 +40,7 @@ Side panel quick release snap latch (these are a lifesaver) https://github.com/V
 
 270° door hinges (helps to not snap the door off and send it flying across the room) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
 
-Deck panel Support Clips (no sagging bottom panel)
+Deck panel Support Clips (no sagging bottom panel) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips
 
 LDO Z Rail End Stops https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl
 

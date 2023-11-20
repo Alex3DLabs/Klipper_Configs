@@ -42,13 +42,14 @@ Sensorless Homing info with Beacon.
 
 I used the Voron Sensorless Homing scripts but I had to add this to the Homing section
 
-{% if home_all or 'Z' in params %}
+if home_all or 'Z' in params
+
     G90
     G1 X175 Y175 F6500
     
     G28 Z
     G1 Z10
-  {% endif %}
-
+    
+  
 
 

@@ -6,7 +6,7 @@ Octopus V1.1
 
 BTT TMC 2209 Stepper Drivers
 
-Sensorless Homing on X and Y
+Sensorless Homing on X and Y - See info below
 
 EBB36 v1.2 with U2C V2.1
 
@@ -37,3 +37,7 @@ https://github.com/Arksine/CanBoot/issues/61
 https://github.com/Esoterical/voron_canbus/tree/main/mainboard_flashing
 
 https://github.com/Klipper3d/klipper/issues/5198
+
+Sensorless Homing info with Beacon.
+
+

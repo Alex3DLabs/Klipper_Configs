@@ -32,8 +32,6 @@ Deck panel Support Clips (no sagging bottom panel)
 
 Great Guide here https://wiki.kb-3d.com/en/home/btt/voron/BTT_EBB36
 
-https://www.reddit.com/r/BIGTREETECH/comments/11mika1/bigtreetech_manta_m8p_v11_ebb_canbus_canboot/
-
 https://github.com/Arksine/CanBoot/issues/61
 
 https://github.com/Esoterical/voron_canbus/tree/main/mainboard_flashing

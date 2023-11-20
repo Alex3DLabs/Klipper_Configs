@@ -7,7 +7,7 @@ Both are running BTT TMC2209 stepper drivers on X & Y
 
 I followed this guide https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 
-But it wasn't all I needed for my Trident as I am running the Beacon 3d Scanning probe.  See info in my Trident 350 section Voron/Trident/350/readme.md
+But it wasn't all I needed for my Trident as I am running the Beacon 3d Scanning probe.  See info in my Trident 350 section
 
 On a BTT Octopus v1.1 you have to set the stallguard jumper set per stepper driver to enable sensorless homing and not have any physical endstop switch connected to the endstop port.
 

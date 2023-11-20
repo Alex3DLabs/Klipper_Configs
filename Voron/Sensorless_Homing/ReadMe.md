@@ -5,7 +5,7 @@ I have sensorless homing setup on my Voron 0.2 as well as my 350 Trident
 
 Both are running BTT TMC2209 stepper drivers on X & Y
 
-I foloowed this guide https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
+I followed this guide https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 
 But it wasn't all I needed for my Trident as I am running the Beacon 3d Scanning probe
 

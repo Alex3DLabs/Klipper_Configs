@@ -1,10 +1,12 @@
-My Trident 250 build
+My Trident 350 build
 
 Meanwell LRS-200-24V
 
 Octopus V1.1
 
 BTT TMC 2209 Stepper Drivers
+
+Sensorless Homing on X and Y
 
 EBB36 v1.2 with U2C V2.1
 

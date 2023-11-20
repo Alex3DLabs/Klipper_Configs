@@ -40,7 +40,7 @@ https://github.com/Klipper3d/klipper/issues/5198
 
 Sensorless Homing info with Beacon.
 
-I used the Voron Sensorless Homing scripts but I had to add this to the Homing section
+I used the Voron Sensorless Homing scripts but I had to add this to the Homing Override section
 
 if home_all or 'Z' in params
 

@@ -1,6 +1,6 @@
-I am currently in the process of upgrading my FlashForge Creator Pro 2 so that I can run Klipper on it.
+# I am currently in the process of upgrading my FlashForge Creator Pro 2 so that I can run Klipper on it.
 
-Current mods
+# Current mods
 
 BTT Manta M8P v1.1
 

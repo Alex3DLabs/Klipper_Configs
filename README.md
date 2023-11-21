@@ -3,18 +3,22 @@ Sharing my Klipper config files for my 3D Printers running Klipper.
 I have uploaded these for reference only, use them at your own risk.
 
 # My current printers are (in order of purchase):
-1 - Creality Ender 3 V2 that is highly modded (Direct drive with E3D V6, BMG Clone, linear rails, BTT SKR Min E3 V3). RIP
+1 - Creality Ender 3 V2 that is highly modded (Direct drive with E3D V6, BMG Clone, linear rails, BTT SKR Min E3 V3). RIP - It's now the Switchwire
 
-2 - Creality CR-10 V3 that is completely stock with the addition of a BL-Touch
+2 - Creality CR-10 V3 that is completely stock with the addition of a BL-Touch - Well, not anymore.
 
-3 - Flashforge Creator Pro 2 (not runnign Klipper - YET)
+3 - Flashforge Creator Pro 2 - Modified to run Klipper Manta M8P with a CB1
 
-4- Voron 2.4 R2 350mm with Phaetus Rapido and LGX-Lite
+4 - Voron 2.4 R2 350mm with Phaetus Rapido HF and LGX-Lite
 
-5 - Bambu Lab X1C Combo with AMS (Not running Klipper - EVER)
+5 - Bambu Lab X1C Combo with AMS - SOLD IT! SOLD IT! SOLD IT!
 
-6 - Voron 0 v0.2 Dragonfly BMO and Sherpa Mini
+6 - Voron 0 v0.2 Dragon HF and Sherpa Mini
 
 7 - Voron Switchwire, E3D Revo Six and LDO Orbiter 1.5, converted from Ender 3 V2
 
 8 - Voron Trident 250mm with Triangel Labs Rapido and LGX-Lite
+
+9 - FLSun Super Racer with Speeder Pad - Running Klipper and modded to direct drive with a Sherpa Mini
+
+10 - Voron Trident 350 with a Phaetus Rapido HF and LGX-Lite

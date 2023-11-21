@@ -1,4 +1,4 @@
-My Trident 350 build
+# My Trident 350 build
 
 Meanwell LRS-200-24V
 
@@ -38,7 +38,7 @@ https://github.com/Esoterical/voron_canbus/tree/main/mainboard_flashing
 
 https://github.com/Klipper3d/klipper/issues/5198
 
-Sensorless Homing info with Beacon.
+# Sensorless Homing info with Beacon.
 
 I used the Voron Sensorless Homing scripts but I had to add this to the Homing Override section
 

@@ -1,10 +1,10 @@
-Voron 2.4 V2
+# Voron 2.4 V2
 
 These are my current Klipper configs for My Voron 2.4 R2 350x350x350 Formbot kit.
 
 Voron2.4_ABS_PIF.ini is my SuperSlicer Profile that I use for Voron parts.
 
-Current Setup
+# Current Setup
 
 BTT Octopus v1.1
 
@@ -44,7 +44,7 @@ Deck panel Support Clips (no sagging bottom panel) https://github.com/VoronDesig
 
 LDO Z Rail End Stops https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl
 
-Helpful Links
+# Helpful Links
 
 KB-3D Wiki on the Hartk Stealthburner PCB Toolhead https://wiki.kb-3d.com/en/home/linneo/voron/PCBs/Stealthburner_One_Piece_PCB
 

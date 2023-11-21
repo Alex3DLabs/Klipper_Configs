@@ -1,4 +1,4 @@
-FLSUN Super Racer with Speeder Pad
+# FLSUN Super Racer with Speeder Pad
 
 I followed these guides https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki
 

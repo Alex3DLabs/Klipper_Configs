@@ -1,10 +1,10 @@
-Voron 0 v0.2 R1 upgrade in progress
+# Voron 0 v0.2 R1
 
 Voron0_v0.2_ABS_PIF.ini is my SuperSlicer Profile for PIF parts
 
 These are my current Klipper configs for My Voron 0 v0.2 LDO kit.
 
-Current Setup
+# Current Setup
 
 BTT SKR Mini E3 V3
 
@@ -32,7 +32,7 @@ V0.2 R1 filament runout sensor installed and working
 
 Klipper Expander https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander
 
-Useful Links:
+# Useful Links:
 
 https://github.com/lukascechovic/voron-v01-POM-fix
 

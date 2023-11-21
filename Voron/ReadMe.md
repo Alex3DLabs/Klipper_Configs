@@ -1,6 +1,6 @@
-#Welcome to my Voron printer section, I will keep this updated as best I can.
+# Welcome to my Voron printer section, I will keep this updated as best I can.
 
-#The Voron printers that I currently have are:
+# The Voron printers that I currently have are:
 
 Voron 0 includes configs for both v0.1 & v0.2
 
@@ -13,13 +13,13 @@ Voron Trident 350
 Voron Switchwire
 
 
-#Awesome Klipper links
+# Awesome Klipper links
 
 Kiauh - the only way to install Klipper
 https://github.com/th33xitus/kiauh
 
 
-#Klipper Macros
+# Klipper Macros
 
 
 KAMP https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging

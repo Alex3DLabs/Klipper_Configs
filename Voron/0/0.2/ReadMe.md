@@ -22,6 +22,12 @@ LDO Input Shaper
 
 Nevermore Micro v4 
 
+Klipper Expander board
+
+Chamber Thermistor
+
+Bottom electronics skirt fans
+
 V0.2 R1 filament runout sensor installed and working
 
 Klipper Expander https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander

@@ -25,4 +25,6 @@ I have uploaded these for reference only, use them at your own risk.
 
 #  Great links to bookmark
 
-Backup to GitHub https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md
+Backup to GitHub
+
+https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md

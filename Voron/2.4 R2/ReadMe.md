@@ -20,6 +20,8 @@ StealthBurner
 
 Galelio 2 Extruder
 
+Voron TAP
+
 Phaetus Rapido HF
 
 Hartk Stealthburner PCB (Single)
@@ -41,8 +43,6 @@ Hartk Sexbolt Z endstop
 Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
 Chamber Thermistor https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/extrusion_thermistor_mount
-
-KlickyNG
 
 Side panel quick release snap latch (these are a lifesaver) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020
 

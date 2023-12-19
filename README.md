@@ -25,10 +25,6 @@ I have uploaded these for reference only, use them at your own risk.
 
 #  Great links to bookmark
 
-Kiauh - The only way to install Klipper
+Kiauh - The only way to install Klipper  https://github.com/dw-0/kiauh
 
-https://github.com/dw-0/kiauh
-
-Backup to GitHub
-
-https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md
+Backup to GitHub  https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md

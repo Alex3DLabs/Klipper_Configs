@@ -10,7 +10,7 @@ The only parts I am reusinng from the original Ender 3 V2 are the Heated Bed (fo
 
 BTT SKR Mini E3 V2  https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-integrated-tmc2209-uart-for-ender-3
 
-Eddy Currents Beacon probe https://beacon3d.com
+Eddy Currents Beacon probe Rev D https://beacon3d.com/product/beacon/
 
 BTT U2C v2.1 and EBB36 v1.2 https://biqu.equipment/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665215074
 

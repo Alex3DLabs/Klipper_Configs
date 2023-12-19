@@ -9,16 +9,20 @@ I have uploaded these for reference only, use them at your own risk.
 
 3 - Flashforge Creator Pro 2 - Modified to run Klipper Manta M8P with a CB1
 
-4 - Voron 2.4 R2 350mm with Phaetus Rapido HF and LGX-Lite
+4 - Voron 2.4 R2 350mm with Phaetus Rapido HF and Galileo 2
 
 5 - Bambu Lab X1C Combo with AMS - SOLD IT! SOLD IT! SOLD IT!
 
 6 - Voron 0 v0.2 Dragon HF and Sherpa Mini
 
-7 - Voron Switchwire, E3D Revo Six and LDO Orbiter 1.5, converted from Ender 3 V2
+7 - Voron Switchwire, Beacon Probe, E3D Revo Six and LDO Orbiter 1.5, converted from Ender 3 V2
 
-8 - Voron Trident 250mm with Triangel Labs Rapido and LGX-Lite
+8 - Voron Trident 250mm with Beacon Probe, Phaetus Rapido and LGX-Lite
 
 9 - FLSun Super Racer with Speeder Pad - Running Klipper and modded to direct drive with a Sherpa Mini
 
-10 - Voron Trident 350 with a Phaetus Rapido HF and LGX-Lite
+10 - Voron Trident 350 with a Beacon Probe, Phaetus Rapido HF and LGX-Lite
+
+#  Great links to bookmark
+
+Backup to GitHub https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md

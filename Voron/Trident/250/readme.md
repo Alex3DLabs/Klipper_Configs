@@ -2,6 +2,8 @@
 
 Meanwell UHC-200-24V and UHC-200-48V
 
+Beacon Probe Rev D https://beacon3d.com/product/beacon/
+
 Octopus Pro
 
 BTT TMC 2209 Stepper Drivers

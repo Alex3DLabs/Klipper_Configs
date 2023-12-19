@@ -4,13 +4,21 @@ These are my current Klipper configs for My Voron 2.4 R2 350x350x350 Formbot kit
 
 Voron2.4_ABS_PIF.ini is my SuperSlicer Profile that I use for Voron parts.
 
+# Future Setup - Very soon, parts are arriving.
+
+Mellow Fly SB2040 V2 https://mellow-3d.github.io/fly_sb2040_v2_general.html
+
+Mellow Fly UTOC 3 https://mellow-3d.github.io/fly-utoc_general.html
+
+Beacon Probe Rev D https://beacon3d.com/product/beacon/
+
 # Current Setup
 
 BTT Octopus v1.1
 
 StealthBurner
 
-LGX-Lite Extruder
+Galelio 2 Extruder
 
 Phaetus Rapido HF
 

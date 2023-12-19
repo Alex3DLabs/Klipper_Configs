@@ -12,12 +12,9 @@ apt-get install lmdb-utils
 To backup the Moonraker Database run the following command
 
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
-```
-
 mdb_dump -f $HOME/printer_data/database/moonrakerdb.bak -a  $HOME/printer_data/database
+
+```
 
 Copy the database to your PC/Mac 
 

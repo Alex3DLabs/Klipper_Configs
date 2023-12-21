@@ -26,7 +26,7 @@ scp pi@Your.IP.Address.x:~/printer_data/database/moonrakerdb.bak /Users/user_id/
 Once you get the new Pi loaded you can then SCP the file onto it.
 
 ```
-scp /Users/alexforadori/Desktop/moonrakerdb.bak pi@192.168.11.159:~/printer_data/database/
+scp /Users/userid/Desktop/moonrakerdb.bak pi@YourIP:~/printer_data/database/
 ```
 
 Then, on the new Pi run the Moonraker Database restore command

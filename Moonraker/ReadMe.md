@@ -27,9 +27,9 @@ Once you get the new Pi loaded you can then SCP the file onto it.
 
 Stop the Moonraker Service
 
-...
+```
 sudo systemctl stop moonraker.service
-...
+```
 
 SCP the  backup to the new Pi
 
@@ -45,6 +45,6 @@ Restore mdb_load -f $HOME/printer_data/database/moonrakerdb.bak -s -T $HOME/pr
 
 Reboot your Pi or restart the Moonraker service.
 
-...
+```
 sudo systemctl start moonraker.service
-...
+```

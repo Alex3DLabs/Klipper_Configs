@@ -26,7 +26,7 @@ Running Nevermore Micro v5
 
 Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH
 
-Honeybadger textured PEI buildsheet
+KB-3D Textured PEI Sheet or Honeybadger textured PEI buildsheet
 
 Hartk GE5C Z Joint mod
 

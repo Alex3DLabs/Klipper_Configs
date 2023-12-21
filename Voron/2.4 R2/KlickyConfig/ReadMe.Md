@@ -4,3 +4,4 @@ Hartk Stealthburner PCB
 
 Linneo PCB wiring Harness
 
+LGX-Lite

@@ -6,7 +6,9 @@ Voron2.4_ABS_PIF.ini is my SuperSlicer Profile that I use for Voron parts.
 
 # Future Setup - Very soon, parts are arriving.
 
-Mellow Fly SB2040 V2 https://mellow-3d.github.io/fly_sb2040_v2_general.html
+Mellow Fly SB2040 V2 https://mellow-3d.github.io/fly_sb2040_v2_general.html  
+
+https://wiki.kb-3d.com/home/mellow/voron/mellow_sb2040
 
 Mellow Fly UTOC 3 https://mellow-3d.github.io/fly-utoc_general.html
 

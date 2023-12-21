@@ -7,7 +7,9 @@ How to backup Moonraker Database
 
 You need to install lmdb utilities
 
+```
 apt-get install lmdb-utils
+```
 
 To backup the Moonraker Database run the following command
 

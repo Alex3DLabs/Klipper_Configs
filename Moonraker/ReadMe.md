@@ -42,7 +42,7 @@ scp /Users/userid/Desktop/moonrakerdb.bak pi@YourIP:~/printer_data/database/
 Then, on the new Pi run the Moonraker Database restore command
 
 ```
-Restore mdb_load -f $HOME/printer_data/database/moonrakerdb.bak -s -T $HOME/printer_data/database
+mdb_load -f $HOME/printer_data/database/moonrakerdb.bak -s -T $HOME/printer_data/database
 ```
 
 Reboot your Pi or restart the Moonraker service.

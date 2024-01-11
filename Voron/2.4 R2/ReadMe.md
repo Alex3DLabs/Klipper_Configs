@@ -36,6 +36,8 @@ Chamber Thermistor https://github.com/VoronDesign/VoronUsers/tree/master/printer
 
 Side panel quick release snap latch (these are a lifesaver) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020
 
+Corner panel mounts https://www.printables.com/model/595030-side-and-corner-locks/files
+
 270° door hinges (helps to not snap the door off and send it flying across the room) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
 
 Deck panel Support Clips (no sagging bottom panel) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips

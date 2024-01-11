@@ -6,7 +6,7 @@ My courrent configs are in the Beacon folder
 
 # Current Setup
 
-BTT Octopus v1.1
+BTT Octopus v1.1 with TMC2209 Stepper Drivers
 
 Mellow Fly SB2040 V2 https://mellow-3d.github.io/fly_sb2040_v2_general.html  
 

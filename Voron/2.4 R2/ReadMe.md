@@ -2,6 +2,8 @@
 
 These are my current Klipper configs for My Voron 2.4 R2 350x350x350 Formbot kit.
 
+My courrent configs are in the Beacon folder
+
 # Current Setup
 
 BTT Octopus v1.1

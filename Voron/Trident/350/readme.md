@@ -34,6 +34,8 @@ Deck panel Support Clips (no sagging bottom panel)
 
 Great Guide here https://wiki.kb-3d.com/en/home/btt/voron/BTT_EBB36
 
+https://github.com/kejar31/VoronMods/tree/main/CB-C2
+
 https://github.com/Arksine/CanBoot/issues/61
 
 https://github.com/Esoterical/voron_canbus/tree/main/mainboard_flashing

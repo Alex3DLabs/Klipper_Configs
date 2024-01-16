@@ -32,6 +32,8 @@ Side panel quick release snap latch (these are a lifesaver)
 
 Deck panel Support Clips (no sagging bottom panel)
 
+https://www.printables.com/model/595030-side-and-corner-locks/files
+
 Great Guide here https://wiki.kb-3d.com/en/home/btt/voron/BTT_EBB36
 
 https://github.com/kejar31/VoronMods/tree/main/CB-C2

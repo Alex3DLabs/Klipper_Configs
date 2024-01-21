@@ -34,6 +34,8 @@ Klipper Expander https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipp
 
 Useful Links:
 
+https://github.com/zruncho3d/ZeroPanels
+
 https://github.com/zruncho3d/ZeroClick
 
 https://github.com/lukascechovic/voron-v01-POM-fix

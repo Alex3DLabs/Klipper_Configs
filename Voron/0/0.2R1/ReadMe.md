@@ -34,6 +34,8 @@ Klipper Expander https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipp
 
 Useful Links:
 
+https://github.com/MotorDynamicsLab/LDOVoron0/blob/v02/STLs/Slide_In_Nut_Support/Slide_In_Nut_Support.stl
+
 https://github.com/zruncho3d/ZeroPanels
 
 https://github.com/zruncho3d/ZeroClick

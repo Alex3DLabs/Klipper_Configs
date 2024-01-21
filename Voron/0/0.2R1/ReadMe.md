@@ -8,6 +8,8 @@ BTT SKR Mini E3 V3
 
 Chirpy DragonBurner
 
+Galileo 2 belted Z mod by Hartk
+
 Sherpa Mini
 
 Dragon HF

@@ -4,6 +4,8 @@ These are my current Klipper configs for My Voron 0 v0.2 R1 LDO kit.
 
 Current Setup
 
+281f21a3516d
+
 BTT SKR Mini E3 V3
 
 Chirpy DragonBurner

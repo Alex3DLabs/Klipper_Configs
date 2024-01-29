@@ -4,13 +4,13 @@ These are my current Klipper configs for My Voron 0 v0.2 R1 LDO kit.
 
 Current Setup
 
-281f21a3516d
+BTT Manta M5P V1
 
-BTT SKR Mini E3 V3
+BTT EBB36 V1.2
 
 Chirpy DragonBurner
 
-Galileo 2 belted Z mod by Hartk
+Galileo 2 belted Z mod by Hartk https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%200/0.2/G2Z
 
 Sherpa Mini
 
@@ -18,7 +18,7 @@ Dragon HF
 
 Kirigami Bed
 
-V0 Simple Display by Hartk
+V0 Simple Display by Hartk (If I can get it to work)
 
 LDO Input Shaper
 

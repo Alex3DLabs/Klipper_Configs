@@ -14,7 +14,9 @@ After installing the U2C and the EBB36 I originally used the ebb-canbus-v1.2.cfg
 As you can see below the Molex Microfit 3.0 connectors are not wired theh same, they are swapped left to right between the U2C v 2.1 and the EBB v 1.2.  This caused me some issues but it was a simple fix to swap wires.
 
 <img width="1264" alt="199635790-d2f7435b-05f7-4dbd-9f8a-3a08b027d211" src="https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/29e70e2f-8e0d-47ea-8616-3c47c8f04911">
-![199635803-ddfac164-213e-4a69-9fc9-5bd4276daa11](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/0564660f-9e2a-4707-b3a7-dcef99ca843e)
+
+![199635803-ddfac164-213e-4a69-9fc9-5bd4276daa11](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/6223ae48-f330-4597-b2d0-b9052f403fac)
+
 
 I measured the resistance across the two poins shown below on the EBB36, it needs to read 60 ohms, to get that I needed to put a jumper on the 120r pins on both the EBB36 and the U2C as shown in the pictures below.
 

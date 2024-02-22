@@ -1,4 +1,4 @@
-# VOron 0 upgrade to a Voron 0.2 R1 and some other fun stuff
+# Voron 0 upgrade to a Voron 0.2 R1 and some other fun stuff
 
 These are my current Klipper configs for My Voron 0 v0.2 R1 LDO kit.
 

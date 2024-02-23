@@ -1,4 +1,6 @@
-# I am currently in the process of upgrading my FlashForge Creator Pro 2 so that I can run Klipper on it.
+# Unfortunately this project is on hold.  
+
+I was in the process of upgrading my FlashForge Creator Pro 2 so that I can run Klipper on it.  I had it working, I was able to print from each head individually, but never got to the point of calibrating it to print with both heads in an IDEX fashion.  I'll get back to it when I have more time, I have parts that I purchased that will only work on this so I can say it's not going into the junk pile.
 
 # Current mods
 

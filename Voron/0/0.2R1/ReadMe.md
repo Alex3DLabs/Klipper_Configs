@@ -2,6 +2,8 @@
 
 These are my current Klipper configs for My Voron 0 v0.2 R1 LDO kit.
 
+This is a work in progress and will be updated.
+
 Current Setup
 
 BTT Manta M5P V1

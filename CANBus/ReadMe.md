@@ -2,11 +2,21 @@
 
 # CANBus Info
 
-I am currently running the folowing CANBus configuration on 3 printers.  A Switchwire, a Trident 250 and a Trident 350.
+I am currently running the folowing CANBus configuration on 4 printers.  A Voron V0.2 R1, Switchwire, a Trident 250 and a Trident 350.
 
-BTT U2C v2.1 
+BTT U2C v2.1 (All but the Voron 0.2 R1)
 
 BTT Ebb36 v1.2
+
+I am running the following on my VOron 2.4 R2
+
+Mellow Fly UtoC
+
+Mellow Fly SB2040
+
+# The best CANBus resource
+
+https://canbus.esoterical.online
 
 # Where to start
 

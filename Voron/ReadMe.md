@@ -2,7 +2,7 @@
 
 # The Voron printers that I currently have are:
 
-Voron 0 includes configs for both v0.1 & v0.2
+Voron 0 includes configs for both v0.1, v0.2 and V0.2 R1
 
 Voron 2.4 R2
 

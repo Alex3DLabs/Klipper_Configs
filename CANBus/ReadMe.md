@@ -8,7 +8,7 @@ BTT U2C v2.1 (All but the Voron 0.2 R1)
 
 BTT Ebb36 v1.2
 
-I am running the following on my VOron 2.4 R2
+I am running the following on my Voron 2.4 R2
 
 Mellow Fly UtoC
 
@@ -17,6 +17,10 @@ Mellow Fly SB2040
 # The best CANBus resource
 
 https://canbus.esoterical.online
+
+In the Voron Discord you can find Esoterical, Eric Zimmerman and others to help with your CANBus issue,but most issues will be found at Esoterical's site.
+
+https://discord.com/channels/460117602945990666/1076243803947667516
 
 # Where to start
 

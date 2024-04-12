@@ -1,4 +1,4 @@
-#Spoolman
+# Spoolman
 
 Keep track of your inventory of 3D-printer filament spools.
 

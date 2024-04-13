@@ -4,7 +4,7 @@ I am currently upgrading this printer.
 
 https://github.com/alegiuk/CR10_SW
 
-
+https://www.printables.com/model/340607-voron-switchwire-ender-3-max-and-cr10-conversation
 
 https://github.com/SW-Conversion/mod-registry
 

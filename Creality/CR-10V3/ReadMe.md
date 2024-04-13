@@ -2,6 +2,10 @@
 
 I am currently upgrading this printer.
 
+https://github.com/alegiuk/CR10_SW
+
+
+
 https://github.com/SW-Conversion/mod-registry
 
 Klipper config files for a stock CR-10 V3 with BL-Touch

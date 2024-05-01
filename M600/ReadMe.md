@@ -5,3 +5,4 @@ Add a filament change (m600) a the layer in your slicer and it will automaticall
 
 
 Download the m600.cfg file, you know you want it.
+![200w](https://github.com/Alex3DLabs/Klipper_Configs/assets/113078228/32be33d2-f190-48c6-8cc5-970ac52d922b)

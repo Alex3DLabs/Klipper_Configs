@@ -1,4 +1,4 @@
-# Voron Switchwire (Ender 3 V2 mod)
+# Voron Switchwire (Ender 3 V2 conversion)
 
 I modifed my Ender 3 V2 in a Voron Switchwire with Stealthburner toolhead. I am using the following conversion (v2). https://github.com/boubounokefalos/Ender_SW
 

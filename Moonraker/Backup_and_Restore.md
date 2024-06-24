@@ -28,7 +28,7 @@ Copy the database to your PC/Mac
 On MacOS run 
 
 ```
-scp pi@Your.IP.Address.x:~/printer_data/database/moonrakerdb.bak /Users/user_id/Desktop
+scp pi@Your.IP.Address:~/printer_data/database/moonrakerdb.bak /Users/user_id/Desktop
 ```
 
 Once you get the new Pi loaded you can then SCP the file onto it.

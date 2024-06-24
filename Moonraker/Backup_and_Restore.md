@@ -11,6 +11,12 @@ You need to install lmdb utilities
 apt-get install lmdb-utils
 ```
 
+Stop the Moonraker Service
+
+```
+sudo systemctl stop moonraker.service
+```
+
 To backup the Moonraker Database run the following command
 
 ```

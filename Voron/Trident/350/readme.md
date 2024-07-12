@@ -14,7 +14,7 @@ EBB36 v1.2 with U2C V2.1
 
 Phaetus Rapido HF
 
-Bondtech LGX-Lite
+Galileo 2
 
 Titanium Extrusion Backers - No more bed tacos!
 
@@ -25,8 +25,6 @@ Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/
 Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
 Chamber Thermistor
-
-Eddy Currents Beacon Probe
 
 Side panel quick release snap latch (these are a lifesaver)
 

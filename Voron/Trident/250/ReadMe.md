@@ -28,6 +28,8 @@ Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_
 
 Chamber Thermistor
 
+BFI
+
 Side panel Annex Panel Clips
 
 Deck panel Support Clips (no sagging bottom panel)

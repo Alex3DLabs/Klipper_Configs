@@ -2,11 +2,7 @@
 
 Starting with an LDO Trident 250 Kit, I am going to build a TrIDEX
 
-Dual DragonBurners
-
-Two Revo Hotends
-
-Teo Sherpa Minis with Bondtech gears R.I.D.G.A gears
+Dual DragonBurners with Revo Hotends Sherpa Minis
 
 BTT Octopus v1.1 with TMC2209 Stepper Motors
 
@@ -26,7 +22,7 @@ Trident Inverted Electronics Bay Mod
 https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics
 
 
-
+The Sherpa Minis will have Bondtech gears R.I.D.G.A gears installed
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 https://github.com/joseph-greiner/tridex_mods/tree/main

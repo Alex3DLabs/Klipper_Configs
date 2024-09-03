@@ -27,7 +27,7 @@ https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/Tri
 
 
 
-
+https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
 https://github.com/joseph-greiner/tridex_mods/tree/main
 

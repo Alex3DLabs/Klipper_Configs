@@ -16,6 +16,14 @@ https://github.com/VoronDesign/Voron-Trident
 
 https://github.com/YesterdaysCoffee/TrideX_17/tree/main
 
+# Colors being used
+
+LDO Space Grey Frame
+
+Atomic Grey ABS
+
+KVP Stellar Blue ABS
+
 # Mods
 
 Trident Inverted Electronics Bay Mod

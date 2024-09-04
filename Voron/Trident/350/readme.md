@@ -18,6 +18,18 @@ Galileo 2
 
 Titanium Extrusion Backers - No more bed tacos!
 
+# Colors used
+
+Formbot Black Frame
+
+Atomic Black ABS
+
+Atomic Dark Cherry Red ABS
+
+Atomic Light Grey ABS
+
+# Mods
+
 BFI
 
 Nevermore Micro V5 for 1.8/Trident

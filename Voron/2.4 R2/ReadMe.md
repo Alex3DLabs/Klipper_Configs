@@ -24,6 +24,16 @@ Phaetus Rapido HF
 
 Titanium Gantry Extrusion Backers - No more bed tacos!
 
+# Colors
+
+Formbot Black Frame
+
+Atomic Black ABS
+
+Atomic Perfect Red ABS
+
+# Mods
+
 Running Nevermore Micro v5
 
 Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH

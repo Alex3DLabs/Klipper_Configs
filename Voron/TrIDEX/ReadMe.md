@@ -21,6 +21,8 @@ https://github.com/YesterdaysCoffee/TrideX_17/tree/main
 Trident Inverted Electronics Bay Mod
 https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics
 
+Trident Bed Fans
+https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/CannedBass/Trident_Bed_Fans
 
 The Sherpa Minis will have Bondtech gears R.I.D.G.A gears installed
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder

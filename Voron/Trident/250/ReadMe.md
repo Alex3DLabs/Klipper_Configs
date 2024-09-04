@@ -22,6 +22,16 @@ WristWatch Galileo 2
 
 Titanium Extrusion Backers - No more bed tacos!
 
+# Colors Used
+
+Formbot Black Frame
+
+Atomic Black ABS
+
+Atomic Perfect Blue ABS
+
+# Mods
+
 Nevermore Micro V5 for 1.8/Trident
 
 Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans

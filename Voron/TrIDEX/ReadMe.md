@@ -29,6 +29,9 @@ KVP Stellar Blue ABS
 Trident Inverted Electronics Bay Mod
 https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics
 
+Annex Style Panel Clips
+https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners
+
 Trident Bed Fans
 https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/CannedBass/Trident_Bed_Fans
 

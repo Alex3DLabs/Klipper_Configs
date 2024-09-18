@@ -2,7 +2,7 @@
 
 Starting with an LDO Trident 250 Kit, I am going to build a TrIDEX
 
-Dual DragonBurners with Revo Hotends Sherpa Minis
+Dual DragonBurners with Rapido HF Hotends and Sherpa Minis
 
 BTT Octopus v1.1 with TMC2209 Stepper Motors
 
@@ -23,6 +23,8 @@ LDO Space Grey Frame
 Atomic Grey ABS
 
 KVP Stellar Blue ABS
+
+Atomic Natural ABS
 
 # Mods
 

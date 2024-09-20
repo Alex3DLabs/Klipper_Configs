@@ -62,3 +62,5 @@ Kiauh https://github.com/dw-0/kiauh
 
 Esoterical's Guide https://canbus.esoterical.online/
 
+https://docs.ldomotors.com/en/guides/btt_43_rotate_guide
+

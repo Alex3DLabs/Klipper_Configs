@@ -55,3 +55,10 @@ https://canbus.esoterical.online
 
 LEC Bar Clip
 https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/eddie/LED_Bar_Clip
+
+# Install Info
+
+Kiauh https://github.com/dw-0/kiauh
+
+Esoterical's Guide https://canbus.esoterical.online/
+

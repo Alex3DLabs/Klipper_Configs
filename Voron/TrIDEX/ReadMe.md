@@ -44,3 +44,9 @@ https://github.com/joseph-greiner/tridex_mods/tree/main
 
 LDO Documentation
 https://docs.ldomotors.com/en/voron/voron-trident
+
+Deck Panel Clips
+https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/wile-e1/Deck_Panel_Support_Clips
+
+Nighthawk's Stealthy Blockoff Plate
+https://github.com/Nighthawk3D/voron_mods/blob/main/stealthy_exhaust_blockoff_plate/STL/stealthy_blockoff_plate%20-%20logo.stl

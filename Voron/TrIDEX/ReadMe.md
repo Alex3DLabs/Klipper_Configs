@@ -50,3 +50,6 @@ https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/wile-e1/Deck_Pa
 
 Nighthawk's Stealthy Blockoff Plate
 https://github.com/Nighthawk3D/voron_mods/blob/main/stealthy_exhaust_blockoff_plate/STL/stealthy_blockoff_plate%20-%20logo.stl
+
+LEC Bar Clip
+https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/eddie/LED_Bar_Clip

@@ -35,3 +35,6 @@ https://github.com/SW-Conversion/mod-registry
 KB-3D EBB info https://wiki.kb-3d.com/home/btt/voron/BTT_EBB36
 
 U2C Mount https://www.printables.com/model/422274-bigtreetech-u2c-mount
+
+
+https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/KenadyDwag44/sw_lightbar

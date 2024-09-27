@@ -16,7 +16,7 @@ Galileo 2 belted Z mod by Hartk https://github.com/hartk1213/MISC/tree/main/Voro
 
 Sherpa Mini
 
-Dragon HF
+Rapido HF
 
 Kirigami Bed
 
@@ -45,3 +45,5 @@ https://github.com/zruncho3d/ZeroClick
 https://github.com/MapleLeafMakers/V0_Stealth_Handles
 
 https://docs.vorondesign.com/community/electronics/120decibell/filament_runout_sensor.html
+
+https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Jon/1515_led_mount

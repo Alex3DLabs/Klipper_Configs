@@ -9,6 +9,7 @@ I used this mount https://github.com/VoronDesign/VoronUsers/blob/main/printer_mo
 
 With these LEDs https://www.amazon.com/dp/B09Z6NBWVL?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 
+I connected the 2 wires to the HE3 output.
 
 Leveraging this code in the printer.cfg
 

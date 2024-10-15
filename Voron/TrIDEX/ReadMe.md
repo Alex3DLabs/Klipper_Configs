@@ -16,6 +16,8 @@ https://github.com/VoronDesign/Voron-Trident
 
 https://github.com/YesterdaysCoffee/TrideX_17/tree/main
 
+I used most of these mods and my configs are based on these https://github.com/joseph-greiner/tridex_mods/tree/main
+
 # Colors being used
 
 LDO Space Grey Frame
@@ -40,7 +42,7 @@ https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/CannedBass/Trid
 The Sherpa Minis will have Bondtech gears R.I.D.G.A gears installed
 https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
 
-https://github.com/joseph-greiner/tridex_mods/tree/main
+I am running this Umbilical Mount https://www.printables.com/model/920249-ebb36-mounting-w-cable-clamp/files
 
 LDO Documentation
 https://docs.ldomotors.com/en/voron/voron-trident

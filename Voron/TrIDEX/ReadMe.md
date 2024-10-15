@@ -4,7 +4,7 @@ Starting with an LDO Trident 250 Kit, I am going to build a TrIDEX
 
 Dual DragonBurners with Rapido HF Hotends and Sherpa Minis
 
-BTT Octopus v1.1 with TMC2209 Stepper Motors (Killes the original Octopus and one 2209 stepper driver)
+BTT Octopus v1.1 with TMC2209 Stepper Motors (RIP the original Octopus and one 2209 stepper driver)
 
 Dual BTT EBB36 V1.2 CANBus boards
 

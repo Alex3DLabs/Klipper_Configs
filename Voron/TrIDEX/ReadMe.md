@@ -8,6 +8,8 @@ BTT Octopus v1.1 with TMC2209 Stepper Motors (RIP the original Octopus and one 2
 
 Dual BTT EBB36 V1.2 CANBus boards
 
+Beacon 3D Probe https://beacon3d.com/
+
 I will be using the following sources for my printer
 
 https://github.com/FrankenVoron/Tridex/tree/main

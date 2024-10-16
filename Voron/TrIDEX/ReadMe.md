@@ -32,39 +32,29 @@ Atomic Natural ABS
 
 # Mods
 
-Trident Inverted Electronics Bay Mod
-https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics
+[Trident Inverted Electronics Bay Mod](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics)
 
-Annex Style Panel Clips
-https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners
+[Annex Style Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners)
 
-Trident Bed Fans
-https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/CannedBass/Trident_Bed_Fans
+[Trident Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/CannedBass/Trident_Bed_Fans)
 
-The Sherpa Minis will have Bondtech gears R.I.D.G.A gears installed
-https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+[The Sherpa Minis will have Bondtech gears R.I.D.G.A gears installed](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 
-I am running this Umbilical Mount https://www.printables.com/model/920249-ebb36-mounting-w-cable-clamp/files
+I am running this [Umbilical Mount](https://www.printables.com/model/920249-ebb36-mounting-w-cable-clamp/files)
 
-LDO Documentation
-https://docs.ldomotors.com/en/voron/voron-trident
+[LDO Documentation](https://docs.ldomotors.com/en/voron/voron-trident)
 
-Deck Panel Clips
-https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/wile-e1/Deck_Panel_Support_Clips
+[Deck Panel Clips](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
-Nighthawk's Stealthy Blockoff Plate
-https://github.com/Nighthawk3D/voron_mods/blob/main/stealthy_exhaust_blockoff_plate/STL/stealthy_blockoff_plate%20-%20logo.stl
+[Nighthawk's Stealthy Blockoff Plate](https://github.com/Nighthawk3D/voron_mods/blob/main/stealthy_exhaust_blockoff_plate/STL/stealthy_blockoff_plate%20-%20logo.stl)
 
-https://canbus.esoterical.online
+[Esoterical's Guide](https://canbus.esoterical.online)
 
-LEC Bar Clip
-https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/eddie/LED_Bar_Clip
+[LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/eddie/LED_Bar_Clip)
 
 # Install Info
 
-Kiauh https://github.com/dw-0/kiauh
+[Kiauh](https://github.com/dw-0/kiauh)
 
-Esoterical's Guide https://canbus.esoterical.online/
-
-https://docs.ldomotors.com/en/guides/btt_43_rotate_guide
+[TFT Screen 180º rotate](https://docs.ldomotors.com/en/guides/btt_43_rotate_guide)
 

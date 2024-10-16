@@ -52,6 +52,8 @@ I am running this [Umbilical Mount](https://www.printables.com/model/920249-ebb3
 
 [LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/eddie/LED_Bar_Clip)
 
+[Rainbow Serial Bumper](https://github.com/MapleLeafMakers/Rainbow_Serial_Bumper/tree/main)
+
 ### Install Info
 
 [Kiauh](https://github.com/dw-0/kiauh)

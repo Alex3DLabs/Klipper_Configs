@@ -20,7 +20,7 @@ https://github.com/YesterdaysCoffee/TrideX_17/tree/main
 
 I used most of these mods and my configs are based on these https://github.com/joseph-greiner/tridex_mods/tree/main
 
-# Colors being used
+## Colors being used
 
 LDO Space Grey Frame
 
@@ -30,7 +30,7 @@ KVP Stellar Blue ABS
 
 Atomic Natural ABS
 
-# Mods
+## Mods
 
 [Trident Inverted Electronics Bay Mod](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics)
 
@@ -52,7 +52,7 @@ I am running this [Umbilical Mount](https://www.printables.com/model/920249-ebb3
 
 [LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/eddie/LED_Bar_Clip)
 
-# Install Info
+### Install Info
 
 [Kiauh](https://github.com/dw-0/kiauh)
 

@@ -30,7 +30,7 @@ Reached 50º at  3:10 PM
 
 Room temp to 110º in 6 minutes
 
-###Chamber
+### Chamber
 
 Chamber room temp to: 
 

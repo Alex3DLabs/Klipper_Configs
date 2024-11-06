@@ -4,6 +4,21 @@
 
 4 bed fans and 2 Nevermore V5s
 
+
+## Second Test
+
+Set bed to 110º and waited to start bedfans until 110º
+
+
+
+
+
+
+
+
+
+## First Test
+
 Turned on bed to 110º at 2:05 PM Bed fans set to 10%
 
 Reached 110º at 2:11 PM, bed fans set to 60%  Chamber temp at 30º

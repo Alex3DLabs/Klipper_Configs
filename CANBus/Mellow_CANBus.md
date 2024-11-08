@@ -10,6 +10,8 @@
 
 ![PXL_20231220_024024080](https://github.com/user-attachments/assets/fa349cd9-dc7f-4eb9-9ff5-70cc2b064f55)
 
+Connecting an LDO Stepper motor to the SB 2040
+
 ![PXL_20231220_030014344](https://github.com/user-attachments/assets/d4e7cbbe-2a48-41bc-9926-0591079d73d8)
 
 ![PXL_20231220_025035951](https://github.com/user-attachments/assets/2289435e-c434-4709-8fff-d886c25242bb)

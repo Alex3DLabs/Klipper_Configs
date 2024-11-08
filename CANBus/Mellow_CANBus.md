@@ -1,10 +1,10 @@
 # Mellow CANBus information 
 
-## Mellow UTOC V3 
+## Mellow UTOC 3 
 
 ![fly_utoc-1_3_front_back](https://github.com/user-attachments/assets/1162d04d-0080-4e4e-8d1c-6fc481bf7d30)
 
-Mellow UTOC V3 vs a BTT U2C v 2.1
+Mellow UTOC 3 vs a BTT U2C v 2.1
 
 ![PXL_20231219_161922333 MP](https://github.com/user-attachments/assets/47d3c84c-2637-48ba-aafd-e7562f6b547d)
 

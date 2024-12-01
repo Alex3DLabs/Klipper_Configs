@@ -16,7 +16,7 @@ Once you have the M600 Macro in your printer config you only need to do a few th
 
 2 - Slice it.
 
-3 - Move the slider on the right to the layer you want to change colors, right click and choose "Add color change (M600)"
+3 - Move the slider on the right to the layer you want to change colors, right click on the "+" and choose "Add color change (M600)"
 
 <img width="1573" alt="Screenshot 2024-11-30 at 9 44 31 PM" src="https://github.com/user-attachments/assets/0c06362f-65fa-4ed7-a248-c957deabe1a1">
 

@@ -29,3 +29,16 @@ Once you have the M600 Macro in your printer config you only need to do a few th
 6 - you will now see the part in it's gcode sliced view with 2 colors.
 
 <img width="1292" alt="Screenshot 2024-11-30 at 9 44 56 PM" src="https://github.com/user-attachments/assets/2d44a331-6ff1-40a4-aec2-0d6217816f42">
+
+
+### For OrcaSlicer - I need to test this!
+
+1 - It's similar except you "add custom G-Code"
+
+<img width="1069" alt="Screenshot 2024-11-30 at 10 10 50 PM" src="https://github.com/user-attachments/assets/cec231ba-d9f4-4b42-85ce-770d293e47b6">
+
+2 - Enter "M600" and click ok.
+
+<img width="730" alt="Screenshot 2024-11-30 at 10 11 14 PM" src="https://github.com/user-attachments/assets/3b1d568a-91e2-4787-9550-26733550153d">
+
+3 - Slicer the part again.

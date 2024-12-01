@@ -6,3 +6,12 @@ Add a filament change (m600) a the layer in your slicer and it will automaticall
 
 Download the m600.cfg file, you know you want it.
 
+
+
+## Use
+
+Once you have the M600 Macro in your printer config you only need to do a few things.
+
+1 - In your slicer, add the part you want to do a fliament swap on.
+
+2 - Slice it.

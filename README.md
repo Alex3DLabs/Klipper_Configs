@@ -23,6 +23,8 @@ I have uploaded these for reference only, use them at your own risk.
 
 10 - Voron Trident 350 with a Beacon Probe, Phaetus Rapido HF and Galileo 2
 
+11 - FrakenVoron TrIDEX
+
 #  Great links to bookmark
 
 Kiauh - The only way to install Klipper  https://github.com/dw-0/kiauh

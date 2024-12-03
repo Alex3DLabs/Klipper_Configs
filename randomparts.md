@@ -1,6 +1,10 @@
 # Random parts I use
 
-https://www.printables.com/model/705321-knomi2-dragon-uhf-stealthburner-main-body
+[Rigid V2 Z Joint](https://www.printables.com/model/996313-voron-v24-rigid-fixed-z-joint)
+
+[Fized V2 Z Joint](https://github.com/bythorsthunder/Voron_Mods/tree/main/Fixed_2.4_Z_Joints)
+
+[Knomi Dragon UHF](https://www.printables.com/model/705321-knomi2-dragon-uhf-stealthburner-main-body)
 
 https://www.printables.com/model/456614-cardboard-spool-ring-and-clamp/files
 

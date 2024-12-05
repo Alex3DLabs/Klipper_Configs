@@ -1,8 +1,12 @@
 # Random parts I use
 
+## V2 Z mounts
+
 [Rigid V2 Z Joint](https://www.printables.com/model/996313-voron-v24-rigid-fixed-z-joint)
 
 [Fized V2 Z Joint](https://github.com/bythorsthunder/Voron_Mods/tree/main/Fixed_2.4_Z_Joints)
+
+[AE Reinforced Gantry Mounts](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Non_Annex_Printers/VORON_Printers/VORON_V2dot4/annex_dev-Reinforced_Gantry_Mounts)
 
 [Knomi Dragon UHF](https://www.printables.com/model/705321-knomi2-dragon-uhf-stealthburner-main-body)
 

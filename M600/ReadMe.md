@@ -8,7 +8,14 @@ Download the m600.cfg file, you know you want it.
 
 
 
-## Use
+## How to use the M600 feature
+
+Make sure you have the following in your #Extruder section of your printer.cfg
+
+```
+max_extrude_only_distance: 200
+max_extrude_cross_section: 50.0
+```
 
 Once you have the M600 Macro in your printer config you only need to do a few things.
 

@@ -16,7 +16,7 @@ Voron Switchwire
 
 [Ellis Tuning](https://ellis3dp.com/Print-Tuning-Guide/)
 
-[Esoterical CANBus Guide])https://canbus.esoterical.online)
+[Esoterical CANBus Guide](https://canbus.esoterical.online)
 
 [Belt Tensioning](http://lukeslab.info/en/belt-tension-guide)
 

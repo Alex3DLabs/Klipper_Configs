@@ -36,8 +36,6 @@ Atomic Perfect Red ABS
 
 Running Nevermore Micro v5
 
-Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH
-
 KB-3D Textured PEI Sheet or Honeybadger textured PEI buildsheet
 
 Hartk GE5C Z Joint mod
@@ -46,18 +44,12 @@ Hartk GE5C Z Joint mod
 
 [Ellis Bed fan mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
 
-Chamber Thermistor https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/extrusion_thermistor_mount
+[Chamber Thermistor](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/extrusion_thermistor_mount)
 
 [Annex Panel Clips](https://github.com/Annex-Engineering/Redoubt/tree/main/STLs/Panel_Mounting)
 
-Corner panel mounts https://www.printables.com/model/595030-side-and-corner-locks/files
-
-270° door hinges (helps to not snap the door off and send it flying across the room) https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
+[270° door hinges (helps to not snap the door off and send it flying across the room)](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
 
 [Deck panel Support Clips (no sagging bottom panel)](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
-LDO Z Rail End Stops https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl
-
-# Helpful Links
-
-KB-3D Wiki on the Hartk Stealthburner PCB Toolhead https://wiki.kb-3d.com/en/home/linneo/voron/PCBs/Stealthburner_One_Piece_PCB
+[LDO Z Rail End Stops](https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/z_rail_stop_x4.stl)

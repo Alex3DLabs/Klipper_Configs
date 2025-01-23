@@ -40,6 +40,8 @@ KB-3D Textured PEI Sheet or Honeybadger textured PEI buildsheet
 
 Hartk GE5C Z Joint mod
 
+Hartk Pin Mod
+
 [Clee's BFI and BZI](https://github.com/clee/VoronBFI)
 
 [Ellis Bed fan mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)

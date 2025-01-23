@@ -32,6 +32,8 @@ Atomic Natural ABS
 
 ## Mods
 
+[Adding Nudge](https://github.com/zruncho3d/nudge)
+
 [Trident Inverted Electronics Bay Mod](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics)
 
 [Annex Style Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners)
@@ -53,6 +55,8 @@ I am running this [Umbilical Mount](https://www.printables.com/model/920249-ebb3
 [LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/eddie/LED_Bar_Clip)
 
 [Rainbow Serial Bumper](https://github.com/MapleLeafMakers/Rainbow_Serial_Bumper/tree/main)
+
+Extrusion backers mounted to X, I need to cut Y to length.
 
 ### Install Info
 

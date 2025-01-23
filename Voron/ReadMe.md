@@ -12,6 +12,14 @@ Voron Trident 350
 
 Voron Switchwire
 
+# Tuning Guides
+
+[Ellis Tuning](https://ellis3dp.com/Print-Tuning-Guide/)
+
+[Esoterical CANBus Guide])https://canbus.esoterical.online)
+
+[Belt Tensioning](http://lukeslab.info/en/belt-tension-guide)
+
 
 # Awesome Klipper links
 

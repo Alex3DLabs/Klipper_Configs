@@ -6,6 +6,8 @@ Voron 0 includes configs for both v0.1, v0.2 and V0.2 R1
 
 Voron 2.4 R2
 
+FrakenVoron TrIDEX (Trident + IDEX)
+
 Voron Trident 250
 
 Voron Trident 350

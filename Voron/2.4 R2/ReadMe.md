@@ -34,6 +34,8 @@ Atomic Perfect Red ABS
 
 # Mods
 
+[Flex Plate Stops](https://www.printables.com/model/411428-voron-24-flex-plate-stops)
+
 Running Nevermore Micro v5
 
 KB-3D Textured PEI Sheet or Honeybadger textured PEI buildsheet

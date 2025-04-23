@@ -28,6 +28,7 @@ Voron Switchwire
 Kiauh - the only way to install Klipper
 https://github.com/th33xitus/kiauh
 
+[Klipper Message of the Day](https://github.com/tomaski/klipper-motd)
 
 # Klipper Macros
 

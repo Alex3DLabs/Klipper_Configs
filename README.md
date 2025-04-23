@@ -25,6 +25,10 @@ I have uploaded these for reference only, use them at your own risk.
 
 11 - FrakenVoron TrIDEX
 
+13 - Voron Trident 250 (Mostly from Spare Parts
+
+14 - Sovol SV06 
+
 #  Great links to bookmark
 
 Kiauh - The only way to install Klipper  https://github.com/dw-0/kiauh

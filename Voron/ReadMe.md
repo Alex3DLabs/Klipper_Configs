@@ -10,6 +10,8 @@ FrakenVoron TrIDEX (Trident + IDEX)
 
 Voron Trident 250
 
+Voron Trident 250 (Spare Parts)
+
 Voron Trident 350
 
 Voron Switchwire

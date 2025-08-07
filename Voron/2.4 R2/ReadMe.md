@@ -36,7 +36,9 @@ Atomic Perfect Red ABS
 
 [Flex Plate Stops](https://www.printables.com/model/411428-voron-24-flex-plate-stops)
 
-Running Nevermore Micro v5
+Running [THE FILTER](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
+
+Also running the [Aire Filter system](https://github.com/VoronManiac/V2.4-Aire/blob/main/README.md)
 
 KB-3D Textured PEI Sheet or Honeybadger textured PEI buildsheet
 

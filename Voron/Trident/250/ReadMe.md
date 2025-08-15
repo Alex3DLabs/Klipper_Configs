@@ -16,7 +16,7 @@ Sensorless Homing on X and Y - See info below
 
 BTT EBB36 v1.2
 
-AE Xol Toolhead
+[AE Xol Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
 
 Phaetus Rapido HF
 

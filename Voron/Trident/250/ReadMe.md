@@ -40,7 +40,7 @@ Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_
 
 Chamber Thermistor
 
-BFI
+[Clee's BFI](https://github.com/clee/VoronBFI)
 
 Side panel Annex Panel Clips
 

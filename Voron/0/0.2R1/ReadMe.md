@@ -14,7 +14,7 @@ BTT EBB36 V1.2
 
 Galileo 2 belted Z mod by Hartk https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%200/0.2/G2Z
 
-Sherpa Mini
+[Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 
 Rapido HF
 

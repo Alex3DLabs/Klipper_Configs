@@ -1,14 +1,10 @@
 # My 250x250x250 Trident build information
 
-Meanwell UHP-200-24V
+Meanwell LRS-200-24V
 
-Meanwell UHP-200-48V
-
-Beacon Probe Rev D https://beacon3d.com/product/beacon/
+[Beacon Probe Rev D](https://beacon3d.com/product/beacon/)
 
 BTT Manta M8P v1.1
-
-BTT TMC 5160 Pro v1.1 Stepper Drivers for X and Y
 
 BTT TMC 2209 Stepper Drivers
 

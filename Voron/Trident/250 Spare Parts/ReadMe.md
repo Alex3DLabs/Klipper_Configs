@@ -4,7 +4,7 @@ Meanwell LRS-200-24V
 
 [Beacon Probe Rev D](https://beacon3d.com/product/beacon/)
 
-BTT Manta M8P v1.1
+BTT Octopus V1.1
 
 BTT TMC 2209 Stepper Drivers
 

@@ -10,7 +10,7 @@ BTT Manta M5P V1
 
 BTT EBB36 V1.2
 
-Chirpy DragonBurner
+[Chirpy DragonBurner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 
 Galileo 2 belted Z mod by Hartk https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%200/0.2/G2Z
 
@@ -18,9 +18,9 @@ Sherpa Mini
 
 Rapido HF
 
-Kirigami Bed
+Kirigami Bed with [Kirigami Bed Brace by DriftRotor](https://www.printables.com/model/858786-voron-v0-v01-v02-r1-kirigami-bed-brace-fan)
 
-Mini 12864 Display
+[waveshare 4.3inch display](https://a.co/d/7jRDAZt)
 
 Nevermore Micro v4
 

@@ -32,7 +32,7 @@ Atomic Light Grey ABS
 
 # Mods
 
-BFI
+[Clee's BFI](https://github.com/clee/VoronBFI)
 
 Nevermore Micro V5 for 1.8/Trident
 

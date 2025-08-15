@@ -14,7 +14,9 @@ EBB36 v1.2 with U2C V2.1
 
 Phaetus Rapido HF
 
-Galileo 2
+[AE Xol Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+
+[WWG2 Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder)
 
 Titanium Extrusion Backers - No more bed tacos!
 

@@ -16,7 +16,7 @@ BTT EBB36 v1.2
 
 Phaetus Rapido HF
 
-WristWatch Galileo 2
+[WWG2 Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder)
 
 Titanium Extrusion Backers - No more bed tacos!
 

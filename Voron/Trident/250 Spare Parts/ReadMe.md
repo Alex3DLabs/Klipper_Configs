@@ -18,15 +18,19 @@ Phaetus Rapido HF
 
 [WWG2 Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder)
 
-Titanium Extrusion Backers - No more bed tacos!
+Titanium Extrusion Backers - Not installed yet.
 
 # Colors Used
 
-Formbot Black Frame
+LDO Black Frame
 
-Atomic Black ABS
+Atomic UV Neon Yellow ABS
 
-Atomic Perfect Blue ABS
+Atomic Gun Metal Grey ABS
+
+Atomic Light Grey ABS
+
+[Gantry is printed in Ambrosia Galactic Black PC-ABS](https://ambrosiafilament.com/collections/pc/products/ambrosia-pc-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-polycarbonate-abs?variant=47713906557242)
 
 # Mods
 

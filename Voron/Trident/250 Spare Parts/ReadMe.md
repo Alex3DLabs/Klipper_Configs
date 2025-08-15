@@ -14,7 +14,7 @@ BTT EBB36 v1.2
 
 [AE A4T](https://github.com/Armchair-Heavy-Industries/A4T)
 
-Phaetus Rapido HF
+Phaetus Rapido Plus HF
 
 [WWG2 Extruder](https://github.com/tetsu97/WristWatch-G2-Extruder)
 

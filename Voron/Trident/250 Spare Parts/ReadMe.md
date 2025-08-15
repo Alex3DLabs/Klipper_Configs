@@ -4,7 +4,7 @@ Meanwell LRS-200-24V
 
 [Beacon Probe Rev D](https://beacon3d.com/product/beacon/)
 
-BTT Octopus V1.1
+BTT Octopus Pro
 
 BTT TMC 2209 Stepper Drivers
 

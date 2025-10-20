@@ -4,4 +4,12 @@
 
 [Crossbow Filament Cutter](https://github.com/DW-Tas/Crossbow-Filament-Cutter)
 
-[WWG2 Dual Filament Sensor](https://www.printables.com/model/1186399-optimized-wristwatch-g2-dual-filament-sensor)  Based on the one [(ByThorsThunder](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_G2_Dual_Filament_Sensor)
+[WWG2 Dual Filament Sensor](https://www.printables.com/model/1186399-optimized-wristwatch-g2-dual-filament-sensor)  Based on the one [ByThorsThunder](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_G2_Dual_Filament_Sensor)
+
+Running [Happy Hare](https://github.com/moggieuk/Happy-Hare)
+
+## Mods I am sorting out
+
+Nozzle Brush - I am looking for ones that leverage the A1 silicone wiper as I have a few of those from my TrIDEX project.
+
+Purge Bucket - But I will probably start out just dumping it onto the bottom panel for now.

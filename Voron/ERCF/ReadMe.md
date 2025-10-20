@@ -8,7 +8,11 @@
 
 3 - Yes, I started to build a Trad Rack but the BOM was way too complicated and that's a LOT of bearings.
 
-4 - ERCF V2 built and just let it sit as I was getting my TrIDEX up and working.  I lost interest for a while.
+4 - [ERCF V2](https://github.com/Carrot-collective/ERCF_v2) built and just let it sit as I was getting my TrIDEX up and working.  I lost interest for a while.
+
+5 - I also started to build the [Box Turtle](https://github.com/ArmoredTurtle/BoxTurtle) and then the [Night Owl](https://github.com/mjonuschat/NightOwl), but I have not ordered the parts I need for those as of yet.
+
+I am looking into the [ERCF V3](https://github.com/Carrot-collective/ERCF_v3) but I have not started to print it yet.
 
 # Status
 

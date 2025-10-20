@@ -15,3 +15,6 @@ Running [Happy Hare](https://github.com/moggieuk/Happy-Hare)
 Nozzle Brush - I am looking for ones that leverage the A1 silicone wiper as I have a few of those from my TrIDEX project.
 
 Purge Bucket - But I will probably start out just dumping it onto the bottom panel for now.
+
+
+## I will post my 350 Trident with ERCF V2 configs in this folder

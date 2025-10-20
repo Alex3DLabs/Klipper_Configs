@@ -4,13 +4,13 @@ Meanwell LRS-200-24V
 
 Beacon Probe Rev D https://beacon3d.com/product/beacon/
 
-Octopus V1.1
+Octopus V1.1 flashed with CANBus firmware
 
 BTT TMC 2209 Stepper Drivers
 
 Sensorless Homing on X and Y - See info below
 
-EBB36 v1.2 with U2C V2.1
+EBB36 v1.2
 
 Phaetus Rapido HF
 
@@ -36,9 +36,7 @@ Atomic Light Grey ABS
 
 Nevermore Micro V5 for 1.8/Trident
 
-Running VEFACH (HEPA + Activcated carbon chamber exhaust mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH
-
-Ellis Bed fan mod https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
+[v2.4 Aire Filter](https://github.com/VoronManiac/V2.4-Aire/blob/main/README.md)
 
 Chamber Thermistor
 

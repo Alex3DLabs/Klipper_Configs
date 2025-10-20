@@ -4,9 +4,9 @@
 
 1 - [ERCF V1](https://github.com/EtteGit/EnragedRabbitProject) (too floppy)
 
-2 - Sturdy Bunny Mod (Better, but supports on files suck)
+2 - [Sturdy Bunny Mod](https://github.com/sneakytreesnake/SturdyBunnyProject) (Better, but not perfect)
 
-3 - Yes, I started to build a Trad Rack but the BOM was way too complicated and that's a LOT of bearings.
+3 - Yes, I started to build a [Trad Rack](https://github.com/Annex-Engineering/TradRack) but the BOM was way too complicated and that's a LOT of bearings.
 
 4 - [ERCF V2](https://github.com/Carrot-collective/ERCF_v2) built and just let it sit as I was getting my TrIDEX up and working.  I lost interest for a while.
 

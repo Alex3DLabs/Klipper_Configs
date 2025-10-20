@@ -2,6 +2,8 @@
 
 ## Mods for supporting the ERCF V2
 
+The 350 Trident is running everything listed in my [current config](https://github.com/Alex3DLabs/Klipper_Configs/tree/main/Voron/Trident/350) plus what is listed below
+
 [Crossbow Filament Cutter](https://github.com/DW-Tas/Crossbow-Filament-Cutter)
 
 [WWG2 Dual Filament Sensor](https://www.printables.com/model/1186399-optimized-wristwatch-g2-dual-filament-sensor)  Based on the one [ByThorsThunder](https://github.com/bythorsthunder/Voron_Mods/tree/main/Wristwatch_G2_Dual_Filament_Sensor)

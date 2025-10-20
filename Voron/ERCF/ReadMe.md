@@ -2,7 +2,7 @@
 
 ## Builds to date
 
-1 - ERCF V1 (too floppy)
+1 - [ERCF V1](https://github.com/EtteGit/EnragedRabbitProject) (too floppy)
 
 2 - Sturdy Bunny Mod (Better, but supports on files suck)
 

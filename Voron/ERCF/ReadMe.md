@@ -31,3 +31,5 @@ I currently have the ERCF V2 connected to my 350 Trident, I am working through t
 - BTT ViViD
 
 The list goes on.
+
+Join the dedicated Happy Hare [Discord](https://discord.gg/aABQUjkZPk) for more info

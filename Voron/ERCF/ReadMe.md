@@ -13,3 +13,21 @@
 # Status
 
 I currently have the ERCF V2 connected to my 350 Trident, I am working through the setup now.  Adding all of the supporting parts to make this work.  If this one fails I will look into building the ERCF V3 or one of the other dozen MMUs that are now on Github,
+
+
+### Other MMUs out there
+
+- ERCF
+- Tradrack
+- Box Turtle
+- Angry Beaver
+- Night Owl
+- 3MS
+- 3D Chameleon
+- Quattro Box
+- PicoMMU
+- MMX
+- KSM
+- BTT ViViD
+
+The list goes on.

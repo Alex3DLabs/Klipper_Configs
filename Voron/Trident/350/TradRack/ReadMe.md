@@ -25,3 +25,14 @@ X 0.0  Y 317
 ```
 
 
+Nozzle Brush location
+
+Right Side
+```
+X 74 Y 350
+```
+
+Left Side
+```
+X 37  Y 350
+

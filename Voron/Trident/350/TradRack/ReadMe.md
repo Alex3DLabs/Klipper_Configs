@@ -14,9 +14,14 @@ Canbus Id 1e77ecfdef39
 
 Crossbow filament cutter location
 
-Touching X 0.0  Y 302.0
+Touching 
+```
+X 0.0  Y 302.0
+```
 
-Full cut X 0.0  Y  
-
+Full cut
+```
+X 0.0  Y 317  
+```
 
 

@@ -36,3 +36,8 @@ Left Side
 ```
 X 37  Y 350
 
+
+
+
+
+This is the [Nozzle Brish Macro](https://www.printables.com/model/882364-new-version-adjustable-gantry-mounted-nozzle-seal) that I am using 

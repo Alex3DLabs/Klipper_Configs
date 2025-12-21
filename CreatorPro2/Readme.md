@@ -27,3 +27,6 @@ I swapped out the stock extruder stepper motors with 2 Moons extruder stepper mo
 OEM X Stepper Motors are moons stepping motors type 17hd4063-06n
 full_steps_per_rotation: 200
 1.8º
+
+
+Screen opening has a radius of 6mm

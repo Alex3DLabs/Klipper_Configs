@@ -38,3 +38,7 @@ Ellis Print Tuning Guide https://github.com/AndrewEllis93/Print-Tuning-Guide
 
 Ellis SuperSlicer Profiles https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles
 
+
+This has my interest
+
+https://github.com/ruiqimao/Sapphire

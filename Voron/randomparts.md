@@ -2,6 +2,8 @@
 
 ## V2 Z mounts
 
+[Clicky Clack Door Mod](https://github.com/tanaes/whopping_Voron_mods/blob/main/clickyclacky_door%2FREADME.md)
+
 [Rigid V2 Z Joint](https://www.printables.com/model/996313-voron-v24-rigid-fixed-z-joint)
 
 [Fized V2 Z Joint](https://github.com/bythorsthunder/Voron_Mods/tree/main/Fixed_2.4_Z_Joints)
